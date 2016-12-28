@@ -3,7 +3,7 @@ User Defined Language file to be used with Notepad++ for syntax highlighting USF
 
 **USFM - Unified Standard Format Markers** - the native file format used by Bible Translators worldwide.
 
-For language background http://paratext.org/about/usfm
+For language background http://paratext.org/usfm
 
 For **Notepad++** https://notepad-plus-plus.org/ - the popular Unicode text editor
 
