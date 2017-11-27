@@ -16,3 +16,13 @@ See also [User Defined Language](https://ivan-radic.github.io/udl-documentation/
 USFM.xml should only be edited using the **Define Language GUI** in Notepad++
 
 The developer is a volunteer for the **CrossWire Bible Society** - http://crosswire.org/
+
+### Installation
+Notepad++
+#### Menu | Language | Define your Language...
+The popup form looks like this: 
+![screenshot 2017-11-27 09 35 14](https://user-images.githubusercontent.com/16325414/33259949-57e446ec-d356-11e7-8013-81ac1d5f76f4.png)
+
+Click the **Import...** button. Browse to the XML file you downloaded from my repo.
+Click "Open".
+
