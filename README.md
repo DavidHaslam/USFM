@@ -11,6 +11,8 @@ For **Notepad++** https://notepad-plus-plus.org/ - the popular Unicode text edit
 
 For technical background http://docs.notepad-plus-plus.org/index.php?title=User_Defined_Language_Files
 
+See also [User Defined Language](https://ivan-radic.github.io/udl-documentation/).
+
 USFM.xml should only be edited using the **Define Language GUI** in Notepad++
 
 The developer is a volunteer for the **CrossWire Bible Society** - http://crosswire.org/
