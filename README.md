@@ -26,6 +26,6 @@ Notepad++
 The popup form looks like this: 
 ![screenshot 2017-11-27 09 35 14](https://user-images.githubusercontent.com/16325414/33259949-57e446ec-d356-11e7-8013-81ac1d5f76f4.png)
 
-Click the **Import...** button. Browse to the XML file you downloaded from my repo.
+Click the **Import...** button. Browse to the XML file you already extracted from the Zip file.
 Click "Open".
 
