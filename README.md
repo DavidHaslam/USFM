@@ -18,6 +18,9 @@ USFM.xml should only be edited using the **Define Language GUI** in Notepad++
 The developer is a volunteer for the **CrossWire Bible Society** - http://crosswire.org/
 
 ### Installation
+
+First, download the whole repository in Zip format, then extract the file `USFM.xml`.
+
 Notepad++
 #### Menu | Language | Define your Language...
 The popup form looks like this: 
